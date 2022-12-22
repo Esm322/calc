@@ -15,6 +15,9 @@
     width: 86%;
     margin: 0 0 0 25px;
     height: 100px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: end;
     font-size: 40px;
     text-align: end;  
     background: #000;
